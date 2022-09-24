@@ -1,0 +1,9 @@
+.nav_bg{
+	background-image: linear-gradient(orange,white,green);
+}
+.logo_size{
+	height: 50px;
+}
+.para_just{
+	text-align: justify;
+}
